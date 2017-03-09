@@ -1,2 +1,2 @@
 # Algorithms-in-JS
-This repoitory contains famous algorithms implemented using Javascript
+This repository contains famous algorithms implemented using Javascript.
